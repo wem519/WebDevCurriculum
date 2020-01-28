@@ -30,11 +30,12 @@
   
  
 * git 외의 버전관리 시스템에는 무엇이 있나요? git은 그 시스템과 어떤 점이 다르며, 어떤 장점을 가지고 있나요?
-  * Mecurial 
+  * git과 같은 DVCS(분산 버전 관리 시스템)로 다음과 같은 시스템이 있다.   
+    * Mecurial 
      콤팩트한 기본적인 기능에 확장을 통해 새로운 명령을 만들어 자신에게 맞는 형태의 도구 생성이 가능하다.
      
-  * Bazaar
-  * Darcs 
+    * Bazaar
+    * Darcs 
 
 * git의 `clone`/`add`/`commit`/`push`/`pull`/`branch`/`stash` 명령은 무엇이며 어떨 때 이용하나요? 그리고 어떻게 사용하나요?
   * `clone`

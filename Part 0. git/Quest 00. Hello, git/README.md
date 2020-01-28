@@ -50,12 +50,17 @@
     * `git commit -m "메시지"`
   * `git push` - 리모트 저장소에 commit을 저장하는 명령어
     * `git push [원격 저장소명][원격 브랜치명]`
-  * `git pull` - 리모트 저장소의 내용을 
-    * 
-  * `git branch` - 
-    * 
-  * `git stash` - 
-    * 
+  * `git pull` - 리모트 저장소의 내용을 로컬로 보내는 명령어
+    * `git pull [원격 저장소명][원격 브랜치명]`
+  * `git branch` - master(줄기)에서 빠져나온 개별 작업 공간(가지)을 만드는 명령어
+    * `git branch` - branch 확인
+    * `git branch [브랜치명]` - 새 branch 생성
+    * `git branch checkout[브랜치명]` - branch 전환
+  * `git stash` - 아직 마무리하지 않은 작업을 잠시 저장해두고 branch를 넘어가는 명령어
+    * `git stash` - 작업을 임시로 저장
+    * `git stash list` - stash 목록 확인
+    * `git stash apply` - 했던 작업을 다시 가져오기
+    * `git stash apply --index`- 위와 어떻게 다른 건지 아직 정확히 이해가 안감.  
 
 ## Quest
 * github에 가입한 뒤, [이 커리큘럼의 github 저장소](https://github.com/KnowRe/WebDevCurriculum)의 우상단의 Fork 버튼을 눌러 자신의 저장소에 복사해 둡니다.

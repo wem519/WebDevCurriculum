@@ -32,10 +32,18 @@
 
 ## Checklist
 * HTML 4.x 이후의 HTML 표준의 변천사는 어떻게 되나요?
+
+  * 이후 HTML 4.01 - XHTML 1.0(HTML 4,01을 XML로 다시 규정) - XHTML 1.1 - XHTML 2.0(하위 호환성 문제) - HTML 5(브라우저 업체들이 별도의 웹 표준을 제안하기 위해 WHATWG를 설립, Web Application 1.0을 제안하여 이를 기초로 HTML Working Group을 출범, 표준안의 명칭 HTML 5로 변경.)
+
 * MS와 IE는 왜 역사에 오점을 남기게 되었을까요?
+
+  * 
 * `<section>`과 `<div>`, `<header>`, `<footer>`, `<article>` 엘리먼트의 차이점은 무엇인가요?
+
+  * 
 * 블럭 레벨 엘리먼트와 인라인 엘리먼트의 차이는 무엇일까요?
 
+  * 
 ## Quest
 * [이 그림](github.png)은 github의 웹사이트 레이아웃입니다. 이 레이아웃의 정보를 HTML 문서로 표현해 보세요.
 * CSS를 전혀 사용하지 않고, 문서의 구조가 어떻게 되어 있는지를 파악하여 구현해 보세요.

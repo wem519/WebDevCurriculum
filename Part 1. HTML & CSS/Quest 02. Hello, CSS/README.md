@@ -50,7 +50,10 @@
 
 * 가로나 세로로 여러 개의 박스가 공간을 채우되, 그 중 한 개의 박스만 가변적인 크기를 가지고 나머지 박스는 고정된 크기를 갖게 하려면 어떻게 해야 할까요?
 
-  * 
+  * `float` + `negative margin`
+  * `float` + `calc method`
+  * display 속성으로 `table` 사용
+  * display 속성으로 `flex box` 사용
   
 * `float` 속성은 왜 좋지 않을까요?
 
